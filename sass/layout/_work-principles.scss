@@ -1,15 +1,15 @@
-.work-principles-list {
+.work-principles__list {
   display: flex;
   margin-top: -30px;
   margin-left: -30px;
 }
 
-.work-principles-item {
+.work-principles__item {
   margin-top: 30px;
   margin-left: 30px;
   flex-basis: calc((100% - 120px) / 4);
 }
-.work-principles-icon {
+.work-principles__icon {
   display: flex;
   justify-content: center;
   align-items: center;
